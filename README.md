@@ -1,0 +1,1 @@
+It is a sleek web calculator crafted with HTML, CSS, and JavaScript. Its modern interface ensures a user-friendly experience, providing real-time arithmetic operations with responsive design and interactive features. Ideal for quick and efficient calculations on any device.
